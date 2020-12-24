@@ -11,7 +11,7 @@ Machine-based text analysis is as pervasive in 2020 as it is impactful. With new
 
 Big Dick Data
 
-
+amazon spying
 ## Definitions
 For this paper I use the term text analysis (TA) to describe the general use of computers to analyze text. However, most of my concerns revolve around machine learning applications of text analysis and training sets in particular. These concerns are most relevant to social media. 
 
@@ -29,13 +29,6 @@ As an example, consider an [authorship attribution study](https://link.springer.
 
 In a related example, consider [plagiarism-detection software](https://academicworks.cuny.edu/gc_pubs/670/). 
 
-### Potential for harm
-Would using this data expose anyone to harm? 
-* Return to plagiarism example
-* Return to authorship attribution by Law enforcement
-* Weapons of math destruction & Feedback loops
-* Privacy. Potential for doxxing.
-* Should the dataset exist at all?
 
 ### Representation
 Interectional representation? 
@@ -53,37 +46,53 @@ AAVE
 English as a second language
 Women's voives versus men's
 #### Feature selection
+#### oath 
+#### laughable google: People + AI Guidebook, Manage privacy & security
+#### facebook happy/sad posts
 
-
+#### Cambridge Analytica - ["violated the company’s terms of service"] (https://www.vox.com/2018/3/17/17134072/facebook-cambridge-analytica-trump-explained-user-data)
+#### Amazon spying to union bust
 ### Supervised vs unsupervised
 
 ## Conclusion
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum semper diam et eleifend sollicitudin. Quisque semper sapien sed est pulvinar, sit amet tincidunt leo luctus. Integer viverra massa eu ornare imperdiet. Duis neque orci, ornare at leo id, viverra hendrerit mauris. Aenean non dictum velit. Nunc rhoncus tellus nec sem consequat, sit amet ornare arcu ultrices. Nunc nisi sapien, finibus non tincidunt et, mattis vel lectus. Aenean suscipit ligula metus, non iaculis mauris pellentesque in. Pellentesque varius ut eros non auctor. Sed et justo tempus, aliquet diam eu, tristique libero. Aliquam erat volutpat. Nulla metus ligula, euismod ut enim eu, finibus malesuada tortor. Ut diam risus, lacinia et placerat id, aliquam id magna.
 
-Aenean vitae convallis orci, ac lobortis diam. Suspendisse tortor mauris, pretium eget nunc non, suscipit dignissim dolor. Donec aliquam sollicitudin nulla, at lobortis est consequat nec. Quisque congue, nisi at luctus imperdiet, elit nisl sollicitudin massa, rhoncus commodo nibh augue non odio. Morbi pulvinar justo id malesuada eleifend. Morbi vel magna vel orci imperdiet pharetra. Aenean mattis libero mi, nec ultrices quam sodales sed. Fusce molestie diam posuere ante rutrum, vel rhoncus lectus mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nisi justo, ornare vulputate vestibulum et, porttitor vel lectus. Cras lobortis massa nisi, quis bibendum quam porta at. Etiam maximus felis et odio consectetur fermentum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam iaculis euismod dolor a sodales.
 
-Aenean tristique erat sit amet sem mattis, eget consequat arcu pellentesque. Suspendisse bibendum mattis rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque vitae tortor vulputate, suscipit arcu eu, scelerisque ipsum. Nulla mattis tempor tristique. Donec ex nunc, lacinia ut turpis et, laoreet porttitor dolor. Ut luctus aliquet dolor. Curabitur porta risus sapien, ut iaculis tortor fermentum sit amet. Nullam eget iaculis orci.
+## Questions
+### Do you have consent to do this analysis?
+Have the authors consented to their text to be used in this way?  Are you respecting the consent given by the text creator to the data provider (e.g. Facebook)? Are you abiding by the terms of the service agreement between you and the data provider (unlike Cambridge Analytica)?
 
-Maecenas mollis elit eget mauris faucibus lobortis. Curabitur ultricies, nibh quis venenatis viverra, sapien ante semper neque, id lobortis sem ipsum id lectus. Quisque rhoncus libero et nisl egestas porta. Aliquam suscipit ante ut nunc mattis viverra. Morbi fringilla condimentum justo, et condimentum lorem vehicula in. Morbi suscipit quam nibh, a malesuada massa egestas a. Curabitur pretium ex a gravida feugiat.
+Does your data provider [allow you to access data that it shouldn't](https://www.vox.com/2018/3/17/17134072/facebook-cambridge-analytica-trump-explained-user-data)? Are you blindly trusting the data provider to be judicious in what have you access to? 
 
-Curabitur mollis, orci non iaculis vehicula, lectus sapien dignissim ex, ac tincidunt mauris enim sed nisi. Vivamus suscipit vitae justo sit amet pellentesque. Praesent pharetra massa ac mi fringilla, id vehicula elit maximus. Nulla quis blandit ex, non venenatis neque. Praesent et est ut leo tempor condimentum nec in lorem. Pellentesque vitae volutpat ex, sed vehicula tortor. Nam luctus nisl non luctus porttitor. Nam et vulputate urna, vitae egestas orci. Suspendisse pulvinar bibendum mi nec consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id ipsum laoreet tellus pretium mollis.
+If your research makes data available to other researchers, are you includong markers that could lead someone back to an author when the data should be anonymized? 
 
-Cras dictum ornare enim vitae dictum. Nunc convallis cursus cursus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris fermentum congue cursus. Sed sapien odio, faucibus in venenatis ut, faucibus et ex. Proin volutpat orci a porta cursus. Pellentesque lobortis urna et quam aliquam, et venenatis mi facilisis. Pellentesque pretium eu dolor dignissim euismod. Sed posuere posuere imperdiet.
+[A Human-centric Perspective on Digital
+Consenting: The Case of GAFAM](https://epub.wu.ac.at/7523/1/HCIS2020_A%20Human-centric%20Perspective%20on%20Digital%20Consenting_The%20Case%20of%20GAFAM_Soheil%20Human_Florian%20Cech.pdf)
 
-Donec commodo mauris non dignissim congue. Etiam quis lacinia dui. Vivamus non velit at ex faucibus tristique. Morbi dapibus neque sit amet mauris lacinia, a bibendum sem porttitor. Donec libero elit, lacinia sed facilisis at, fringilla a urna. Vestibulum semper quis tellus quis viverra. Nullam justo justo, condimentum eu suscipit a, accumsan vel justo. Integer quam nunc, imperdiet id felis in, sodales ullamcorper sapien. Praesent eget luctus metus. Aenean tincidunt a massa et volutpat. Duis et mauris vitae ligula tempor gravida. Vivamus in ultrices justo, sit amet gravida nisi. In rutrum nulla quis ipsum sodales iaculis. Morbi consequat laoreet neque ac condimentum. In in nisi scelerisque magna pretium maximus.
+### Privacy
 
-Proin commodo volutpat dui, faucibus ullamcorper est efficitur sit amet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur porttitor nisi massa, vel dictum libero rhoncus a. Proin vel facilisis arcu. Donec vitae urna non tellus eleifend pellentesque. Quisque vel ultricies tellus, ut lobortis leo. Vestibulum pellentesque consectetur quam, et molestie metus venenatis non. Vivamus semper faucibus diam, vitae commodo dui posuere in. Nulla velit metus, rhoncus sollicitudin lorem non, tristique tincidunt elit. In mollis est eget iaculis scelerisque. Vivamus tincidunt ultrices ligula eu scelerisque. Proin imperdiet eget mi eget interdum.
+### Do no harm
+Are you spying on employees to keep them from unionizing? 
 
-Morbi metus urna, dapibus vel gravida vitae, ornare at justo. Suspendisse congue ac eros quis finibus. Integer sollicitudin, augue in vehicula porttitor, turpis justo fermentum arcu, ut tincidunt turpis est ut nibh. Aenean eu gravida ante, eget sollicitudin ligula. Vivamus elementum gravida elementum. Sed finibus lacus nibh, varius varius libero imperdiet porta. In vitae tempor dui. Maecenas accumsan nibh eros, ac congue eros tincidunt posuere. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vivamus et lectus dolor. Nunc pretium velit justo, non mattis lacus porta sit amet. Sed eget sodales eros. Nulla lacinia volutpat lectus quis condimentum. Vestibulum purus enim, facilisis non consectetur euismod, aliquam sit amet enim. Donec dui magna, aliquam eu maximus quis, consectetur ac justo.
+Can your research or data be weaponized by law enforcement? *** TKTK example of [plagiarism-detection software](https://academicworks.cuny.edu/gc_pubs/670/). 
 
-Morbi auctor sem nec lacus elementum suscipit. Praesent placerat lacinia molestie. Cras libero lectus, facilisis et feugiat in, convallis ut erat. Nulla nunc quam, porttitor ut sollicitudin eu, suscipit vel eros. Curabitur nec nisi vitae felis pulvinar aliquam. Morbi porta diam ligula, pellentesque fringilla mauris pulvinar id. Nam vel suscipit sapien.
 
-Proin libero ante, efficitur non gravida a, interdum nec tellus. Vestibulum eget augue eleifend, accumsan odio sit amet, egestas augue. Sed cursus tempus eros, in interdum nisl iaculis sit amet. Praesent hendrerit lectus eu lectus semper, a blandit ex porta. Aliquam a tortor sodales, congue nunc ac, congue mauris. Donec pulvinar mauris lacinia dolor suscipit egestas. Integer in neque consectetur, suscipit justo ut, ullamcorper leo. Ut condimentum dolor sit amet auctor mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus at elementum tellus, sed semper dolor. Phasellus nec metus at lectus elementum efficitur. Ut a hendrerit nunc.
+Can your research be used to perpetuate and even heighten economic disparities between genders and races? Would ***TKTK classify your researxh as a Weapon of Math Destruction because of... ***TKTK
 
-Sed congue tristique urna, sed iaculis augue. Nulla id erat nibh. Cras ac nulla non tellus sagittis suscipit. Proin laoreet massa lorem, ac varius leo facilisis fermentum. Aliquam velit mi, blandit vitae aliquet ut, imperdiet at eros. Fusce feugiat elit quis nisi efficitur, a pharetra mauris convallis. Proin dictum placerat dui et commodo. Cras ornare quam a varius pretium. Aliquam ullamcorper metus ac hendrerit tristique. Fusce mollis tortor neque, et semper dolor pellentesque quis. Vivamus dignissim eu purus id fringilla. In in arcu sit amet magna vestibulum rutrum.
+If your research involves experimenting on human subjects as opposed to simply text analysis, [has your experiment been reviewed by the IRB](https://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/) to  protect your subjects from harm?
 
-Duis porttitor ante vitae diam posuere porttitor at sit amet arcu. Duis id tincidunt sapien, ut porta sapien. Nunc sit amet turpis dapibus, tincidunt nisl non, sagittis mi. Nunc a facilisis turpis. Ut sagittis sem in massa consectetur, ut molestie erat tempus. Phasellus lobortis magna turpis, vel hendrerit nisi viverra sed. Phasellus eu erat eu justo hendrerit maximus. Vivamus malesuada ante nisi, in hendrerit massa gravida at. Integer quam enim, rhoncus nec libero a, faucibus semper velit. Morbi faucibus fermentum felis, sit amet finibus nunc. Duis suscipit, leo vitae mollis malesuada, ligula magna dapibus ligula, nec rhoncus libero mi commodo metus. Pellentesque a placerat ante, posuere rhoncus tellus. Duis sit amet dolor quis tortor malesuada pharetra. Praesent luctus hendrerit imperdiet. Aenean vitae urna dignissim, convallis lectus at, gravida lorem. Vestibulum egestas eu orci vitae aliquam.
+### Is your data representative?
+Are you accounting for authors of different races and genders in your analysis? Are you treating men or white people as the default and others as outliers/strange? ***Invisible women reference*** 
 
-In dapibus laoreet nisl, consequat molestie eros laoreet sit amet. Praesent congue hendrerit libero, tincidunt ultricies sapien egestas non. Vivamus sem lorem, rutrum et metus.
+Does your model work similarly well on people of various races or genders or is it favored toward a particular gender (usually male) or race (usually white)?
+
+Do you models and analysis ignore [African-American Vernacular English](https://www.nytimes.com/2020/03/23/technology/speech-recognition-bias-apple-amazon-google.html)? What about about people whose second language is English or who [have a strong accent](https://www.washingtonpost.com/graphics/2018/business/alexa-does-not-understand-your-accent/)? What about people of different ages or [geographies](https://www.nytimes.com/interactive/2014/upshot/dialect-quiz-map.html)? Are you assuming everyone is only speaking English when you should be [adapting to bilingual speakers](https://techcrunch.com/2019/09/25/amazon-launches-multilingual-mode-for-using-alexa-in-multiple-languages-at-once/)?
+
+
+[Mitigating Gender Bias in Natural Language Processing:
+Literature Review](https://arxiv.org/pdf/1906.08976.pdf)
+
+
+#### Big Dick Data
+Are you attempting to solve a social problem hoping that a mathematical model would make analysis more "objective"? 
