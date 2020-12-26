@@ -39,35 +39,20 @@ It would be reasonable to assume that if a company gives you access to user data
 
 Maybe another way to word this question is, "Are you blindly trusting the data provider to be judicious in what have you access to?" 
 ### Are you forgetting to anonymize data? 
-This question is especially important if you are making your data available to other researchers, which is rightfully becoming more and more common. The UK Data Service has a [guide](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation/qualitative.aspx) with best practices and what to look out for in anonymizing. This is often names, work places or anything that could identify an individual. 
+This question is especially important if you are making your data available to other researchers, which is becoming the standard for academic research. The UK Data Service has a [guide](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation/qualitative.aspx) with best practices and what to look out for in anonymizing. 
 
-
-## Does your data say as much as you think it can? 
-
-### Have you at any point used the words "revolutionize" or  "disrupt" in talking about your research?
-From [Catherine D'Ignazio and Lauren Klein in The Numbers Donn't Speak for Themselves](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/2#r6073173360) 
-> Big Dick Data is a formal, academic term that we, the authors, have coined to denote big data projects that are characterized by patriarchial, cis-masculinist, totalizing fantasies of world domination as enacted through data capture and analysis. Big Dick Data projects ignore context, fetishize size, and inflate their technical and scientific capabilities."
-### Are you trying to make a human, nuanced decision-making process more "objective"? 
-From Weapons of Math Destruction, Conclusion:
-
-> The achievement gap, mass incarceration, and voter apathy are big, nationwide problems that no free market nor mathematical algorithm will fix. So the first step is to get a grip on our techno-utopia, that unbounded and unwarranted hope in what algorithms and technology can accomplish. Before asking them to do better, we have to admit they can’t do everything
-
-## Is your data representative?
-TKTK
+## Is your data and analysis representative?
+There are two sides to the question of representation. First, are your inputs representative?  Does your text come from a good mix of people of different ages, genders and races.
 
 ### Are you ignoring race and gender in your analysis? Are you inadvertently treating men or white people as the default and others as outliers/strange? 
 TKTKTK Invisible women reference
 
-### Does your model work similarly well on people of various races or genders or is it favored toward a particular gender (usually male) or race (usually white)?
-TKTKTK
-### Do your models and analysis ignore [African-American Vernacular English](https://www.nytimes.com/2020/03/23/technology/speech-recognition-bias-apple-amazon-google.html)
+### Is your model similarly accurate for people of all races and genders or is there a group that is favored?
+ Voice recognition is a well known example of where this can go wrong.
+ ### Do your models and analysis ignore [African-American Vernacular English](https://www.nytimes.com/2020/03/23/technology/speech-recognition-bias-apple-amazon-google.html)
 TKTKTK
 ### What about about people whose second language is English or who [have a strong accent](https://www.washingtonpost.com/graphics/2018/business/alexa-does-not-understand-your-accent/)? 
 TKTKTK
-### What about people of different ages or [geographies](https://www.nytimes.com/interactive/2014/upshot/dialect-quiz-map.html)?
-TKTKTK
-
-
 
 
 ### Are you assuming everyone is only speaking English when you should be adapting to bilingual speakers?
@@ -86,23 +71,28 @@ TKTKTKTK
 
 ## Could your research do harm?
 
-### Are you spying on employees to keep them from unionizing? 
-TKTKTKTK
-
-
-
 ### Can your research or data be weaponized by law enforcement? *** TKTK example of [plagiarism-detection software](https://academicworks.cuny.edu/gc_pubs/670/). 
 
 TKTKTKTK
 
 
-
-### Can your research be used to perpetuate and even heighten economic disparities between genders and races? Would 
-***TKTK classify your research as a Weapon of Math Destruction because of... ***TKTK
-
-
 ### If your research involves experimenting on human subjects as opposed to simply text analysis, [has your experiment been reviewed by the IRB](https://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/) to  protect your subjects from harm?
 TKTKTKTK
+
+
+### Can your research be used to perpetuate and even heighten economic disparities between genders and races? Would 
+From Weapons of Math Destruction, Conclusion:
+
+> The achievement gap, mass incarceration, and voter apathy are big, nationwide problems that no free market nor mathematical algorithm will fix. So the first step is to get a grip on our techno-utopia, that unbounded and unwarranted hope in what algorithms and technology can accomplish. Before asking them to do better, we have to admit they can’t do everything
+
+
+## Does your data say as much as you think it can? 
+
+### Are you trying to make a human, nuanced decision-making process more "objective"? 
+From [Catherine D'Ignazio and Lauren Klein in The Numbers Donn't Speak for Themselves](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/2#r6073173360) 
+> Big Dick Data is a formal, academic term that we, the authors, have coined to denote big data projects that are characterized by patriarchial, cis-masculinist, totalizing fantasies of world domination as enacted through data capture and analysis. Big Dick Data projects ignore context, fetishize size, and inflate their technical and scientific capabilities."
+
+
 
 ## Conclusion
 However, reality is limited by time and resources. Thorough, representative analysis is simply expensive. It is easier to use someone else's model than create your own, even if it comes from a black box of unsupervised learning. It takes less time to reach for an existing data set even if that data comes exclusively from people who were not aware their text would be analyzed in the way you intend to. It is _easy_ to settle in research. It is _easy_ to take shortcuts. What if researchers refused to? What sorts of objections would be necessary for a researcher to say, "This is not worth it." ([Like that Google ethics researcher](https://www.platformer.news/p/the-withering-email-that-got-an-ethical))
