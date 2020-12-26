@@ -1,17 +1,13 @@
-<h1> More harm than good
-    <br/>
-    <span class="subtitle">Questions to ask yourself in text analysis research </span>
-    <br/>
-    <span class="byline">By Shay Culpepper </span>
-</h1>
-
-<h2 style="color: red">***DRAFT***</h2>
+# Consent in text analysis research
+By Shay Culpepper
 
 Work from the semester can be found [here](https://www.dropbox.com/personal/Culpepper)
 ## Intro
-Machine-based text analysis is as pervasive in 2020 as it is impactful. With new open source tools becoming available all the time, anyone is a few lessons away from doing sentiment analysis, topic modeling or creating a chat bot. Currently there are applications in data journalism, digital humanities, language translation, customer service, advertising, criminal justice, search engine optimization and more. The possibilities are limited only by the researcher's imagination. 
+Machine-based text analysis is as pervasive in 2020 as it is impactful.  Currently there are applications in data journalism, digital humanities, language translation, customer service, advertising, criminal justice, search engine optimization and more. The possibilities seem limited only by the researcher's imagination. 
 
-The problem is that there is nothing to compel a researcher to be ethical or thoughtful in the way they source the data. My primary concern in this paper is the question of consent. 
+With new open source tools becoming available all the time, anyone is a few lessons away from doing sentiment analysis, topic modeling or creating a chat bot. This was my big takeaway this semester: machine-based text analysis is both learnable and accessible. Maybe to a fault. 
+
+The problem is that there is nothing to compel a researcher to be ethical or thoughtful in the way they source the data. My primary concern in this paper is the question of whether or not we have adequate consent from text creators (users of social media, people using virtual assistants, etc.). 
 ## Do you have consent to do this research?
 One of the most important aspects of any research is obtaining consent from the creators of the text. Some examples are *clear* violations of consent, such as recording people without their knowledge and analyzing their spoken conversations. Less clear are examples that come from our public use of the internet and social media, in particular. 
 
@@ -20,14 +16,14 @@ Text data from social media websites such as Twitter or Reddit is often made ava
 In a conference paper called "A Human-Centric Perspective on Digital Consenting: The Case of GAFAM", Soheil Human and Florian Cech describe the cognitive load often associated with user agreements. 
 > [U]sers are confronted with the necessity to either accept the companies’ terms of services as-is or to undertake the arduous task of choosing when to share which of their private data through web interfaces provided by the data collectors themselves, meaning privacy and cookie consent forms.
 
-Users' aversion to this "arduous task" creates a knowledge gap in how their data may be used. Requests for consent can be clicked-through thoughtlessly by the user regardless of what the terms of service are. This falls short of the medical and psychological research standard of informed consent. 
+Users' aversion to this "arduous task" creates a knowledge gap in how their data may be used. Requests for consent can be clicked-through thoughtlessly by the user regardless of what the terms of service are. Moreover, no matter how detailed the user agreement is, it could never communicate the implications of every possible research situation. Social media user agreements fall short of the medical and social science research standard of informed consent. 
 
 Informed consent has a few requirements (Brody 1997). For example, the participant should understand what the study will involve and potential outcomes and risks. It also requires that the participant is not compelled or pressured to give consent.  
 
-Questions are currently being asked with regard to health databases and what obligations researchers have to the people who have consented to include their medical information.  (Bromley et al. 2020).  
-
 In 2014 Facebook conducted an experiment on its users to test their emotional reaction to being shown happy or sad posts (Confessore). They used sentiment analysis to choose which posts to show or hide and then measured whether or not the participant's mood had shifted. The study was conducted without the consent of the participants that would reach the standard of "Informed Consent". When it became public that Facebook had been unknowingly experimenting on its users, the backlash was swift from social scientists. Typically, if your research involves experimenting on human subjects, your experiment should be been reviewed by an Institutional Review Board in order to evaluate potential ethical problems or harm. Max Masnick summed up the criticism in a blog post with this: "As a researcher, you don’t get an ethical free pass because a user checked a box next to a link to a website’s Terms of Use." 
 
+So what would informed consent look like in data rich contexts? 
+This is currently being debated with regard to health databases and what obligations researchers have to the people who have consented to include their medical information.  (Bromley et al. 2020). Some of the concerns revolve around the inability to give an exhaustive list of use cases for the data.  
 
 In a related example, consider [plagiarism-detection software](https://academicworks.cuny.edu/gc_pubs/670/). 
 
@@ -47,26 +43,28 @@ Another way to word this question is, "Are you blindly trusting the data provide
 ## Potential harm to the end-users
 ### Are you forgetting to anonymize data? 
 It is important to not inadvertently reveal information about someone that they have not consented to sharing broadly. Things like names, workplaces or addresses left raw in the data allows interested parties to connect your research to specific individuals. This question is especially important if you are making your data available to other researchers, which is becoming standard practice.  The UK Data Service has a [guide](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation/qualitative.aspx) with best practices for anonymizing data.
-<!--
-### Can your research or data be weaponized by law enforcement? *** TKTK example of [plagiarism-detection software](https://academicworks.cuny.edu/gc_pubs/670/). 
 
-As an example, consider an [authorship attribution study](https://link.springer.com/chapter/10.1007/978-3-642-55415-5_28). In this study Min Yang and Kam-Pui Chow use a blog corpus to test an algorithm intended to aid law enforcement. 
-TKTKTKTK
--->
+### Will this research be used to alter the behavior of the text creator? 
+To go back to our example of Facebook and the sentiment study, a largest red flag to researchers who criticized the work was that the study attempted to effect the moods of the unknowing participants. The reason this was so odious is that the research itself has an effect on the participant. What if the experiment itself caused someone with major depression to struggle? It is possible that conducting experiments could do harm to the participant without the participant even being aware that their mood is trying to be manipulated.
 
 ## Potential harm to others
-Most people would not consent to their data being used to harm others. In getting consent, future potential harm is difficult to communicate. 
+Most people would not consent to their data being used to harm others. However, obscure future potential harm is difficult to communicate. 
 
 ### Can your research be used to perpetuate and even heighten inequality?
- With the wealth of data researchers have at their disposal, it is easy to become ensnared in the thought that if you just have enough data and your analyze it just right, you will be able to solve the world's problems. 
+ With the wealth of data researchers have at their disposal, it is easy to become ensnared in the thought that if you just have enough data and your analyze it just right, you will be able to solve the world's problems! You can create models and algorithms so air-tight that decision making can be *objective*! And 100% *fair*! And eliminate prejudice because numbers don't have opinions! Catherine D'Ignazio and Lauren Klein call this Big Dick Data (2018):
  
- From [Catherine D'Ignazio and Lauren Klein in The Numbers Don't Speak for Themselves](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/2#r6073173360) 
 > Big Dick Data is a formal, academic term that we, the authors, have coined to denote big data projects that are characterized by patriarchial, cis-masculinist, totalizing fantasies of world domination as enacted through data capture and analysis. Big Dick Data projects ignore context, fetishize size, and inflate their technical and scientific capabilities."
 
-From Weapons of Math Destruction, Conclusion:
+This tendency leads researchers, especially in big corporations and governments, to delegate decision-making to machines. 
+
+In her book "Weapons of Math Destruction", Cathy O'Neil illustrates ways that machine learning algorithms take inputs that are already biased because we live in a society with such inequality. The bias of those inputs creates bias in the outputs and outcomes. To use an example from the book, automatic resume readers can perpetuate inequality (Ch 7). Because resumes are being fed into an opaque system, you need experts to tell you how to structure your resume to give you the best possible chances of not being weeded out. As you can imagine, this means those who are already well off have more time and ability to research how to game these algorithms. So those who are already well off are then more likely to get the job. 
+
+There are similar phenomena that O'Neil explains throughout the book such as college admissions, credit scores and teacher evaluations--all of which rely on machine learning that can easily create destructive feedback loops.
+
+This type of potential harm is difficult to explain to a participant in order to get informed consent. 
 
 ## Conclusion
-So what are we to do? 
+Perhaps we could mitigate some of these problems by using something like the Instiutional Review Board to review research proposals. Developing a framework with which communities can scrutinize research could go a long way. The best solution would include more autonomy for those whose data is being made available. For social media users, if they could manage permissions outside of the platforms that want to profit off of their data, it could provide beneficial check on the power of the large social media companies. Ultimately, people need to have clear ideas on how their data is being used and have very clear ideas of the implications.
 ## References
 1. Brody, Janet L., John P. Cluck, and Alfredo S. Aragon. "Participants' understanding of the process of psychological research: Informed consent." *Ethics & Behavior* 7.4 (1997): 285-298.
 2.  Bromley, Elizabeth et al. “From "Informed" to "Engaged" Consent: Risks and Obligations in Consent for Participation in a Health Data Repository.” The Journal of law, medicine & ethics : a journal of the American Society of Law, Medicine & Ethics vol. 48,1 (2020): 172-182. doi:10.1177/1073110520917007
@@ -82,27 +80,3 @@ So what are we to do?
 12. Mesnick, Max. "A Scientist's Take on Facebook's Psychology Experiment." *Max Masnick, PhD*. https://www.maxmasnick.com/2014/06/28/facebook/. Accessed 25 Dec. 2020.
 13. "Anonymisation." *UK Data Service*. https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation/qualitative.aspx. Accessed 25 Dec. 2020.
 
-<style>
-summary {
-    margin-bottom: 0.75rem;
-}
-
-h2 {
-    font-weight: bold;
-}
-p {
-    font-weight: 200;
-}
-h3 {
-    color: #222;
-    /* font-style: italic; */
-}
-
-.subtitle, .byline {
-    font-size: 1rem;
-}
-
-.byline {
-    font-style: italic;
-}
-</style>
