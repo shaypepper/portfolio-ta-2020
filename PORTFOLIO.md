@@ -7,24 +7,20 @@
 
 <h2 style="color: red">***DRAFT***</h2>
 
+Work from the semester can be found [here](https://www.dropbox.com/personal/Culpepper)
 ## Intro
 Machine-based text analysis is as pervasive in 2020 as it is impactful. With new open source tools becoming available all the time, anyone is a few lessons away from doing sentiment analysis, topic modeling or creating a chat bot. Currently there are applications in data journalism, digital humanities, language translation, customer service, advertising, criminal justice, search engine optimization and more. The possibilities are limited only by the researcher's imagination. 
 
-The problem is that there is nothing to compel a researcher to be ethical or thoughtful in the way they source the data. There are few checks and therefore we must police ourselves. In order to avoid missteps, here is a list of questions to help scrutinize your own work.  
-
-[Ethical decision-making in internet research.](http://aoir.org/reports/ethics2.pdf)
-
+The problem is that there is nothing to compel a researcher to be ethical or thoughtful in the way they source the data. My primary concern in this paper is the question of consent. 
 ## Do you have consent to do this research?
 One of the most important aspects of any research is obtaining consent from the creators of the text. Some examples are *clear* violations of consent, such as recording people without their knowledge and analyzing their spoken conversations. Less clear are examples that come from our public use of the internet and social media, in particular. 
 
 Text data from social media websites such as Twitter or Reddit is often made available via APIs from the company. When an API is not available, you also have the option to collect the data via web-scraping. Unfortunately, there is an assumption that because the text is publicly available, it is free game for analysis. Legally that might be true. Most social media companies' terms of service include written consent from the user regarding ownership of their data. However, this is not without it's own ethical considerations.
 
-In a conference paper called "A Human-Centric Perspective on Digital Consenting: The Case of GAFAM", Soheil Human and Florian Cech describe the cognitive load often associated with user consent agreements. 
+In a conference paper called "A Human-Centric Perspective on Digital Consenting: The Case of GAFAM", Soheil Human and Florian Cech describe the cognitive load often associated with user agreements. 
 > [U]sers are confronted with the necessity to either accept the companies’ terms of services as-is or to undertake the arduous task of choosing when to share which of their private data through web interfaces provided by the data collectors themselves, meaning privacy and cookie consent forms.
 
-Users' aversion to this "arduous task" creates a knowledge gap in how their data may be used. Requests for consent can be clicked-through thoughtlessly by the user regardless of what the terms of service are. 
-
-This form of consent falls short of the medical and psychological research standard of informed consent. Informed consent requires the subject to have an understanding of the possible outcomes of the research before consenting. There is no requirement for this level of consent in most text analysis, but it could be used as a guiding light.
+Users' aversion to this "arduous task" creates a knowledge gap in how their data may be used. Requests for consent can be clicked-through thoughtlessly by the user regardless of what the terms of service are. This falls short of the medical and psychological research standard of informed consent. Informed consent requires the subject to have an understanding of the possible outcomes of the research before consenting. There is no requirement for this level of consent in most text analysis, but it could be used as a guiding light.
 
 In other words, If a social media user knew the intended use of their data, would they be comfortable with it? 
 
@@ -56,8 +52,6 @@ It is important to not inadvertently reveal information about someone that they 
 As an example, consider an [authorship attribution study](https://link.springer.com/chapter/10.1007/978-3-642-55415-5_28). In this study Min Yang and Kam-Pui Chow use a blog corpus to test an algorithm intended to aid law enforcement. 
 TKTKTKTK
 
-
-
 ## Potential harm to others
 ### Can your research be used to perpetuate and even heighten economic disparities between genders and races? Would 
 From Weapons of Math Destruction, Conclusion:
@@ -74,9 +68,14 @@ From [Catherine D'Ignazio and Lauren Klein in The Numbers Donn't Speak for Thems
 
 ## References
 1. Human, Soheil, and Florian Cech. "A Human-centric Perspective on Digital Consenting: The Case of GAFAM." *Human Centred Intelligent Systems.* Springer, Singapore, 2020. 139-159.
-2. Perez, Caroline Criado. Invisible women: Exposing data bias in a world designed for men. Random House, 2019.
-
-
+1. Perez, Caroline Criado. Invisible women: Exposing data bias in a world designed for men. Random House, 2019.
+1. Brody, Janet L., John P. Cluck, and Alfredo S. Aragon. "Participants' understanding of the process of psychological research: Informed consent." *Ethics & Behavior* 7.4 (1997): 285-298.
+1. O'neil, Cathy. Weapons of math destruction: How big data increases inequality and threatens democracy. Kindle Ed. Broadway Books, 2016.
+2. D'Ignazio, Catherine, and Lauren Klein. "Chapter Five: The Numbers Don’t Speak for Themselves." *Data Feminism.* PubPub, 2018.
+3. Sun, Tony, et al. "Mitigating Gender Bias in Natural Language Processing: Literature Review." *Association for Computational Linguistics (ACL 2019)* (2019).
+1. Yang, Min, and Kam-Pui Chow. "Authorship attribution for forensic investigation with thousands of authors." *IFIP International Information Security Conference*. Springer, Berlin, Heidelberg, 2014.
+2. Waltzer, Luke, Rhody, Lisa M., and Shirazi, Roxanne. “Testimony to the CUNY Board of Trustees in Opposition to the Resolution to Approve a Contract with Turnitin for Plagiarism Detection Software, December 14th, 2020 Meeting” *CUNY Academic Works*, 3 Dec. 2020, https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1797&context=gc_pubs. Accessed 18 Dec. 2020.
+3. Confessore, Nicholas. "Cambridge Analytica and Facebook: The Scandal and the Fallout So Far." *New York Times*, 4 April 2018, https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1797&context=gc_pubs. Accessed 18 Dec. 2020.
 
 <style>
 summary {
