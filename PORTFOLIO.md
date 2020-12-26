@@ -20,15 +20,13 @@ Text data from social media websites such as Twitter or Reddit is often made ava
 In a conference paper called "A Human-Centric Perspective on Digital Consenting: The Case of GAFAM", Soheil Human and Florian Cech describe the cognitive load often associated with user agreements. 
 > [U]sers are confronted with the necessity to either accept the companies’ terms of services as-is or to undertake the arduous task of choosing when to share which of their private data through web interfaces provided by the data collectors themselves, meaning privacy and cookie consent forms.
 
-Users' aversion to this "arduous task" creates a knowledge gap in how their data may be used. Requests for consent can be clicked-through thoughtlessly by the user regardless of what the terms of service are. This falls short of the medical and psychological research standard of informed consent. Informed consent requires the subject to have an understanding of the possible outcomes of the research before consenting. There is no requirement for this level of consent in most text analysis, but it could be used as a guiding light.
+Users' aversion to this "arduous task" creates a knowledge gap in how their data may be used. Requests for consent can be clicked-through thoughtlessly by the user regardless of what the terms of service are. This falls short of the medical and psychological research standard of informed consent. 
 
 Informed consent has a few requirements (Brody 1997). For example, the participant should understand what the study will involve and potential outcomes and risks. It also requires that the participant is not compelled or pressured to give consent.  
 
-In 2014 Facebook conducted an experiment on its users to test their emotional reaction to being shown happy or sad posts (Confessore). They used sentiment analysis to choose which posts to show or hide and then measured whether or not the participant's mood had shifted. The study was conducted without the consent of the participants that would reach the standard of "Informed Consent". When it became public that Facebook had been unknowingly experimenting on its users, the backlash was swift from social scientists. Max Masnick summed up the criticism in a blog post with this: "As a researcher, you don’t get an ethical free pass because a user checked a box next to a link to a website’s Terms of Use." 
+Questions are currently being asked with regard to health databases and what obligations researchers have to the people who have consented to include their medical information.  (Bromley et al. 2020).  
 
-
-If your research involves experimenting on human subjects as opposed to simply text analysis, [has your experiment been reviewed by the IRB](https://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/) to  protect your subjects from harm?
-TKTKTKTK
+In 2014 Facebook conducted an experiment on its users to test their emotional reaction to being shown happy or sad posts (Confessore). They used sentiment analysis to choose which posts to show or hide and then measured whether or not the participant's mood had shifted. The study was conducted without the consent of the participants that would reach the standard of "Informed Consent". When it became public that Facebook had been unknowingly experimenting on its users, the backlash was swift from social scientists. Typically, if your research involves experimenting on human subjects, your experiment should be been reviewed by an Institutional Review Board in order to evaluate potential ethical problems or harm. Max Masnick summed up the criticism in a blog post with this: "As a researcher, you don’t get an ethical free pass because a user checked a box next to a link to a website’s Terms of Use." 
 
 
 In a related example, consider [plagiarism-detection software](https://academicworks.cuny.edu/gc_pubs/670/). 
@@ -46,36 +44,29 @@ It would be reasonable to assume that if a company gives you access to user data
 
 Another way to word this question is, "Are you blindly trusting the data provider to be judicious in what you have access to?"
 
-## Potential harm to the "subjects"
+## Potential harm to the end-users
 ### Are you forgetting to anonymize data? 
 It is important to not inadvertently reveal information about someone that they have not consented to sharing broadly. Things like names, workplaces or addresses left raw in the data allows interested parties to connect your research to specific individuals. This question is especially important if you are making your data available to other researchers, which is becoming standard practice.  The UK Data Service has a [guide](https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation/qualitative.aspx) with best practices for anonymizing data.
-
+<!--
 ### Can your research or data be weaponized by law enforcement? *** TKTK example of [plagiarism-detection software](https://academicworks.cuny.edu/gc_pubs/670/). 
 
 As an example, consider an [authorship attribution study](https://link.springer.com/chapter/10.1007/978-3-642-55415-5_28). In this study Min Yang and Kam-Pui Chow use a blog corpus to test an algorithm intended to aid law enforcement. 
 TKTKTKTK
+-->
 
 ## Potential harm to others
 Most people would not consent to their data being used to harm others. In getting consent, future potential harm is difficult to communicate. 
 
 ### Can your research be used to perpetuate and even heighten inequality?
  With the wealth of data researchers have at their disposal, it is easy to become ensnared in the thought that if you just have enough data and your analyze it just right, you will be able to solve the world's problems. 
+ 
+ From [Catherine D'Ignazio and Lauren Klein in The Numbers Don't Speak for Themselves](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/2#r6073173360) 
+> Big Dick Data is a formal, academic term that we, the authors, have coined to denote big data projects that are characterized by patriarchial, cis-masculinist, totalizing fantasies of world domination as enacted through data capture and analysis. Big Dick Data projects ignore context, fetishize size, and inflate their technical and scientific capabilities."
 
 From Weapons of Math Destruction, Conclusion:
 
-> The achievement gap, mass incarceration, and voter apathy are big, nationwide problems that no free market nor mathematical algorithm will fix. So the first step is to get a grip on our techno-utopia, that unbounded and unwarranted hope in what algorithms and technology can accomplish. Before asking them to do better, we have to admit they can’t do everything
-
-[Mitigating Gender Bias in Natural Language Processing:
-Literature Review](https://arxiv.org/pdf/1906.08976.pdf)
-
-### Are you trying to make a human, nuanced decision-making process more "objective"? 
-From [Catherine D'Ignazio and Lauren Klein in The Numbers Donn't Speak for Themselves](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/2#r6073173360) 
-> Big Dick Data is a formal, academic term that we, the authors, have coined to denote big data projects that are characterized by patriarchial, cis-masculinist, totalizing fantasies of world domination as enacted through data capture and analysis. Big Dick Data projects ignore context, fetishize size, and inflate their technical and scientific capabilities."
-
-
-
 ## Conclusion
-So what are we to do? Similar questions are being asked with regard to health  databases and what obligations researchers have to the people who have consented to include their medical information. (Bromley et al. 2020)
+So what are we to do? 
 ## References
 1. Brody, Janet L., John P. Cluck, and Alfredo S. Aragon. "Participants' understanding of the process of psychological research: Informed consent." *Ethics & Behavior* 7.4 (1997): 285-298.
 2.  Bromley, Elizabeth et al. “From "Informed" to "Engaged" Consent: Risks and Obligations in Consent for Participation in a Health Data Repository.” The Journal of law, medicine & ethics : a journal of the American Society of Law, Medicine & Ethics vol. 48,1 (2020): 172-182. doi:10.1177/1073110520917007
