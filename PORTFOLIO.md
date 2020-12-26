@@ -22,7 +22,10 @@ In a conference paper called "A Human-Centric Perspective on Digital Consenting:
 
 Users' aversion to this "arduous task" creates a knowledge gap in how their data may be used. Requests for consent can be clicked-through thoughtlessly by the user regardless of what the terms of service are. This falls short of the medical and psychological research standard of informed consent. Informed consent requires the subject to have an understanding of the possible outcomes of the research before consenting. There is no requirement for this level of consent in most text analysis, but it could be used as a guiding light.
 
-In other words, If a social media user knew the intended use of their data, would they be comfortable with it? 
+Informed consent has a few requirements (Brody 1997). For example, the participant should understand what the study will involve and potential outcomes and risks. It also requires that the participant is not compelled or pressured to give consent.  
+
+In 2014 Facebook conducted an experiment on its users to test their emotional reaction to being shown happy or sad posts (Confessore). They used sentiment analysis to choose which posts to show or hide and then measured whether or not the participant's mood had shifted. The study was conducted without the consent of the participants that would reach the standard of "Informed Consent". When it became public that Facebook had been unknowingly experimenting on its users, the backlash was swift from social scientists. Max Masnick summed up the criticism in a blog post with this: "As a researcher, you don’t get an ethical free pass because a user checked a box next to a link to a website’s Terms of Use." 
+
 
 If your research involves experimenting on human subjects as opposed to simply text analysis, [has your experiment been reviewed by the IRB](https://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/) to  protect your subjects from harm?
 TKTKTKTK
@@ -53,7 +56,11 @@ As an example, consider an [authorship attribution study](https://link.springer.
 TKTKTKTK
 
 ## Potential harm to others
-### Can your research be used to perpetuate and even heighten economic disparities between genders and races? Would 
+Most people would not consent to their data being used to harm others. In getting consent, future potential harm is difficult to communicate. 
+
+### Can your research be used to perpetuate and even heighten inequality?
+ With the wealth of data researchers have at their disposal, it is easy to become ensnared in the thought that if you just have enough data and your analyze it just right, you will be able to solve the world's problems. 
+
 From Weapons of Math Destruction, Conclusion:
 
 > The achievement gap, mass incarceration, and voter apathy are big, nationwide problems that no free market nor mathematical algorithm will fix. So the first step is to get a grip on our techno-utopia, that unbounded and unwarranted hope in what algorithms and technology can accomplish. Before asking them to do better, we have to admit they can’t do everything
@@ -66,16 +73,23 @@ From [Catherine D'Ignazio and Lauren Klein in The Numbers Donn't Speak for Thems
 > Big Dick Data is a formal, academic term that we, the authors, have coined to denote big data projects that are characterized by patriarchial, cis-masculinist, totalizing fantasies of world domination as enacted through data capture and analysis. Big Dick Data projects ignore context, fetishize size, and inflate their technical and scientific capabilities."
 
 
+
+## Conclusion
+So what are we to do? Similar questions are being asked with regard to health  databases and what obligations researchers have to the people who have consented to include their medical information. (Bromley et al. 2020)
 ## References
-1. Human, Soheil, and Florian Cech. "A Human-centric Perspective on Digital Consenting: The Case of GAFAM." *Human Centred Intelligent Systems.* Springer, Singapore, 2020. 139-159.
-1. Perez, Caroline Criado. Invisible women: Exposing data bias in a world designed for men. Random House, 2019.
 1. Brody, Janet L., John P. Cluck, and Alfredo S. Aragon. "Participants' understanding of the process of psychological research: Informed consent." *Ethics & Behavior* 7.4 (1997): 285-298.
-1. O'neil, Cathy. Weapons of math destruction: How big data increases inequality and threatens democracy. Kindle Ed. Broadway Books, 2016.
-2. D'Ignazio, Catherine, and Lauren Klein. "Chapter Five: The Numbers Don’t Speak for Themselves." *Data Feminism.* PubPub, 2018.
-3. Sun, Tony, et al. "Mitigating Gender Bias in Natural Language Processing: Literature Review." *Association for Computational Linguistics (ACL 2019)* (2019).
-1. Yang, Min, and Kam-Pui Chow. "Authorship attribution for forensic investigation with thousands of authors." *IFIP International Information Security Conference*. Springer, Berlin, Heidelberg, 2014.
-2. Waltzer, Luke, Rhody, Lisa M., and Shirazi, Roxanne. “Testimony to the CUNY Board of Trustees in Opposition to the Resolution to Approve a Contract with Turnitin for Plagiarism Detection Software, December 14th, 2020 Meeting” *CUNY Academic Works*, 3 Dec. 2020, https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1797&context=gc_pubs. Accessed 18 Dec. 2020.
+2.  Bromley, Elizabeth et al. “From "Informed" to "Engaged" Consent: Risks and Obligations in Consent for Participation in a Health Data Repository.” The Journal of law, medicine & ethics : a journal of the American Society of Law, Medicine & Ethics vol. 48,1 (2020): 172-182. doi:10.1177/1073110520917007
 3. Confessore, Nicholas. "Cambridge Analytica and Facebook: The Scandal and the Fallout So Far." *New York Times*, 4 April 2018, https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1797&context=gc_pubs. Accessed 18 Dec. 2020.
+4. D'Ignazio, Catherine, and Lauren Klein. "Chapter Five: The Numbers Don’t Speak for Themselves." *Data Feminism.* PubPub, 2018.
+5. Human, Soheil, and Florian Cech. "A Human-centric Perspective on Digital Consenting: The Case of GAFAM." *Human Centred Intelligent Systems.* Springer, Singapore, 2020. 139-159.
+6. Meyer, Robinson. "Everything We Know About Facebook's Secret Mood Manipulation Experiment." The Atlantic, 28 June 2014, https://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/. Accessed 18 Dec. 2020.
+7. O'neil, Cathy. Weapons of math destruction: How big data increases inequality and threatens democracy. Kindle Ed. Broadway Books, 2016.
+8. Perez, Caroline Criado. Invisible women: Exposing data bias in a world designed for men. Random House, 2019.
+9. Sun, Tony, et al. "Mitigating Gender Bias in Natural Language Processing: Literature Review." *Association for Computational Linguistics (ACL 2019)* (2019).
+10. Waltzer, Luke, Rhody, Lisa M., and Shirazi, Roxanne. “Testimony to the CUNY Board of Trustees in Opposition to the Resolution to Approve a Contract with Turnitin for Plagiarism Detection Software, December 14th, 2020 Meeting” *CUNY Academic Works*, 3 Dec. 2020, https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1797&context=gc_pubs. Accessed 18 Dec. 2020.
+11. Yang, Min, and Kam-Pui Chow. "Authorship attribution for forensic investigation with thousands of authors." *IFIP International Information Security Conference*. Springer, Berlin, Heidelberg, 2014.
+12. Mesnick, Max. "A Scientist's Take on Facebook's Psychology Experiment." *Max Masnick, PhD*. https://www.maxmasnick.com/2014/06/28/facebook/. Accessed 25 Dec. 2020.
+13. "Anonymisation." *UK Data Service*. https://www.ukdataservice.ac.uk/manage-data/legal-ethical/anonymisation/qualitative.aspx. Accessed 25 Dec. 2020.
 
 <style>
 summary {
